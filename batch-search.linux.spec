@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['src\\batch-search.py'],
+    ['src/batch-search.py'],
     pathex=[],
     binaries=[],
     datas=[],
